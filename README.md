@@ -18,7 +18,7 @@ Prescriptions – generated for appointments, linked to multiple medications.
 
 Medications – tracked for dosage and frequency per prescription.
 
-########It supports various types of queries, such as:
+###### It supports various types of queries, such as:
 
 Counting appointments per doctor or per day
 
